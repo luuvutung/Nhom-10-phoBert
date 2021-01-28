@@ -1,0 +1,9 @@
+BƯỚC 1 : mở đường link https://colab.research.google.com/drive/1IHIYxV7COaMr6GrfWWb-I4TwT706scYi?usp=sharing&pli=1&authuser=2
+BƯỚC 2 : Đăng nhập vào tài khoàn google driver có liên kết với google colab 
+user name : trinhtrang0974826430@gmail.com
+pass      : 3k3z9xsc9a3k99
+
+BƯỚC 3   : ở góc phải ấn conect để kết nối 
+BƯỚC 4 : Ở thanh công cụ chọn Run->run cell 
+BƯỚC 5 : chạy cell Start sever -> vào link mà nó sinh ra có dạng như :http://1469fba5dc20.ngrok.io/
+và đó là kết quả 
